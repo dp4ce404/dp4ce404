@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey Hackers 👋
 
-<!--
-**dp4ce404/dp4ce404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... OSCP, BSCP, CRTP
+- 🌱 I’m currently learning ... AD, Web, Cloud, Red Team
+- 👯 I’m looking to collaborate on ... Anything hacking
 
-Here are some ideas to get you started:
+## Free sources: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ipsec rocks](https://ippsec.rocks/?#)
+
+- https://book.hacktricks.wiki/en/index.html
+
+- https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory
+
+- https://swisskyrepo.github.io/InternalAllTheThings/
+
+- https://swisskyrepo.github.io/PayloadsAllTheThings/
+
+- https://mayfly277.github.io/categories/goad/ (Game of Active Directory)
+
+- https://www.ired.team/
+
+- https://github.com/0xStarlight/CRTP-Notes
+
+- https://www.hackingarticles.in/web-penetration-testing/
+
+- https://www.hackingarticles.in/red-teaming/
+
+- https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+- https://www.revshells.com/
+
+- https://cspbypass.com/
+
+- https://bbradar.io/
+
+- https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf
+
+- https://www.youtube.com/@BugBountyReportsExplained
+
+- https://www.youtube.com/@criticalthinkingpodcast/videos
+
+- https://portswigger.net/web-security/all-topics
